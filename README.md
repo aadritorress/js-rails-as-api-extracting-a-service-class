@@ -77,7 +77,7 @@ visiting `http://localhost:3000/sightings/2` produces the following set of data:
     "longitude": -97.74306
   }
 }
-```
+```          
 
 We can use the same render statement in an `index` action without having to change it:
 
